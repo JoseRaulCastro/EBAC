@@ -1,0 +1,11 @@
+﻿ID,Reembolso,EdoCivil,Ingresos,Fraude
+1,Sí,Soltero,125000,No
+2,No,Casado,100000,No
+3,No,Soltero,70000,No
+4,Sí,Casado,120000,No
+5,No,Divorciado,95000,Sí
+6,No,Casado,60000,No
+7,Sí,Divorciado,220000,No
+8,No,Soltero,85000,Sí
+9,No,Casado,75000,No
+10,No,Soltero,90000,Sí
